@@ -56,4 +56,4 @@ El programa utiliza un cifrado de sustitución, donde cada letra del alfabeto y 
 
 ## Autor
 
-Este programa fue desarrollado por el profesor carlos y aumentado y mejorado por Hector Jimenez y está disponible su prueba de escritorio en [[enlace_al_repositorio](https://www.loom.com/share/92c7576e4d9f4df6a1d53c2c47954506?sid=8066bae7-d7b8-47c8-ae62-e41502a32426)].
+Este programa fue desarrollado por el profesor carlos y aumentado y mejorado por Hector Jimenez y está disponible su prueba de escritorio en [enlace al video](https://www.loom.com/share/92c7576e4d9f4df6a1d53c2c47954506?sid=8066bae7-d7b8-47c8-ae62-e41502a32426).
